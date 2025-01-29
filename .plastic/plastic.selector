@@ -1,0 +1,4 @@
+repository "LandWay@Soaro@cloud"
+  path "/"
+    br "/main"
+    co "/main"
